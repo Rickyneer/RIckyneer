@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Quicknavigate
-[Badge-troduction](https://github.com/Rickyneer/RIckyneer/edit/main/README.md#badge-troduction)
+[Badge-troduction](https://github.com/Rickyneer/RIckyneer#badge-troduction)
 <br>
-[What's to come](https://github.com/Rickyneer/RIckyneer/edit/main/README.md#whats-to-come)
+[What's to come](https://github.com/Rickyneer/RIckyneer#whats-to-come)
 
 
 ## Badge-troduction
